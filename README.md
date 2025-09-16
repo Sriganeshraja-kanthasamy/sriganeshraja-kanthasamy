@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Khiran</h1>
+<h1 align="center">Hi 👋, I'm Sriganeshraja Kanthasamy</h1>
 <p align="center">Aspiring Software Engineer | Front-End Developer | DSA Enthusiast</p>
 
 ---
@@ -70,7 +70,7 @@ I love solving problems, building websites, and working on real-world applicatio
 ### 🧩 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sriganeshraja_kanthasamy?theme=dark&font=Baloo+Bhaijaan" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Sriganeshraja_kanthasamy_?theme=dark&font=Baloo+Bhaijaan" alt="LeetCode Stats"/>
 </p>
 
 ---
